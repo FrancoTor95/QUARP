@@ -1,2 +1,2 @@
-# QUARK
-A Quad-channel Underwater Acoustic Research Kit for communication and tracking
+# QUARP
+A Quad-channel Underwater Acoustic Research Platform for communication and tracking
