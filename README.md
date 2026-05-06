@@ -125,9 +125,11 @@ An enhanced version of the CLI client that utilizes the `rich` Python library. I
 ### 3. Hydrophone Real-Time Viewer (`client_hydrophone.py`)
 A sophisticated GUI application built with PyQtGraph for real-time acoustic signal monitoring.
 
-https://github.com/FrancoTor95/QUARP/raw/main/img/example_python_hydrophone.mp4
-
-*Example of the Hydrophone Real-Time Viewer*
+<div align="center">
+  <img src="img/example_python_hydrophone.gif" alt="Hydrophone Real-Time Viewer" width="800">
+  <br/>
+  <em>Example of the Hydrophone Real-Time Viewer</em>
+</div>
 
 *   **Data Stream**: Listens on a high-speed UDP port for raw audio samples while maintaining a TCP control connection via `QUARPCore`.
 *   **Visualization**: Displays a live oscilloscope (time domain) and a scrolling spectrogram (frequency domain).
